@@ -1,5 +1,6 @@
 package com.example.springjwt.service;
 
+import com.example.springjwt.dto.CustomUserDetails;
 import com.example.springjwt.entity.UserEntity;
 import com.example.springjwt.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
